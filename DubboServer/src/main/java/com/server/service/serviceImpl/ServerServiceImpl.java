@@ -1,6 +1,6 @@
-package service.serviceImpl;
+package com.server.service.serviceImpl;
 
-import service.ServerService;
+import com.server.service.ServerService;
 
 public class ServerServiceImpl implements ServerService {
     @Override
